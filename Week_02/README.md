@@ -61,7 +61,7 @@ def recursion(level, param1, param2, ...):
 
 ## 图
 
-## 扩展参考链接
+### 扩展参考链接
 
 1. [连通图个数](http://leetcode-cn.com/problems/number-of-islands/)
 2. [拓扑排序（Topological Sorting）](http://zhuanlan.zhihu.com/p/34871092)
